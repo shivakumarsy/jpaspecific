@@ -1,0 +1,8 @@
+com/example/jpasepcifcation/JpasepcifcationApplication.class
+com/example/jpasepcifcation/controller/Ctrl.class
+com/example/jpasepcifcation/repo/UserSpecific.class
+com/example/jpasepcifcation/repo/CompanyRepo.class
+com/example/jpasepcifcation/entity/User.class
+com/example/jpasepcifcation/entity/Company.class
+com/example/jpasepcifcation/repo/UserRepo.class
+com/example/jpasepcifcation/repo/CompanySpecific.class
